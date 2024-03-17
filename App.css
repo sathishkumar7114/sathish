@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
